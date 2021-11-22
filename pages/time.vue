@@ -94,7 +94,7 @@
                     </table>
                   </v-col>
                   <v-col cols="2">
-                  <p style="text-align:center">ยังไม่มีจอง</p>
+                  <p style="text-align:center ">ยังไม่มีจอง</p>
                   </v-col>
               </v-row>
               
